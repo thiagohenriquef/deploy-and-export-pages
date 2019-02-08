@@ -10,7 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "ftp-deploy": "^2.3.0",
+    "node-sftp-server": "^0.3.0",
+    "request": "^2.88.0",
     "ssh2-sftp-client": "^2.4.3",
-    "unzip": "^0.1.11"
+    "unzip": "^0.1.11",
+    "unzipper": "^0.9.10",
+    "yauzl": "^2.10.0"
   }
 }
